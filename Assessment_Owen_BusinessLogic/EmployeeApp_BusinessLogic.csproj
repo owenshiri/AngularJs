@@ -45,9 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Assesment_Owen_Repository\Assesment_Owen_Repository.csproj">
+    <ProjectReference Include="..\Assesment_Owen_Repository\EmployeeApp_Repository.csproj">
       <Project>{cb0b585d-178d-41a7-a6ac-ca2a44258da4}</Project>
-      <Name>Assesment_Owen_Repository</Name>
+      <Name>EmployeeApp_Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

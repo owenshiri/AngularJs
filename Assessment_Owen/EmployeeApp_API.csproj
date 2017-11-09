@@ -273,13 +273,13 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Assesment_Owen_Repository\Assesment_Owen_Repository.csproj">
+    <ProjectReference Include="..\Assesment_Owen_Repository\EmployeeApp_Repository.csproj">
       <Project>{cb0b585d-178d-41a7-a6ac-ca2a44258da4}</Project>
-      <Name>Assesment_Owen_Repository</Name>
+      <Name>EmployeeApp_Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Assessment_Owen_BusinessLogic\Assessment_Owen_BusinessLogic.csproj">
+    <ProjectReference Include="..\Assessment_Owen_BusinessLogic\EmployeeApp_BusinessLogic.csproj">
       <Project>{18ef4e8e-9d22-4cb7-bec3-0f20c33a8dd5}</Project>
-      <Name>Assessment_Owen_BusinessLogic</Name>
+      <Name>EmployeeApp_BusinessLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment_Owen_API", "Assessment_Owen\Assessment_Owen_API.csproj", "{315E2FE7-85EA-4475-A0ED-8760DD5B70C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp_API", "Assessment_Owen\EmployeeApp_API.csproj", "{315E2FE7-85EA-4475-A0ED-8760DD5B70C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment_Owen_BusinessLogic", "Assessment_Owen_BusinessLogic\Assessment_Owen_BusinessLogic.csproj", "{18EF4E8E-9D22-4CB7-BEC3-0F20C33A8DD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp_BusinessLogic", "Assessment_Owen_BusinessLogic\EmployeeApp_BusinessLogic.csproj", "{18EF4E8E-9D22-4CB7-BEC3-0F20C33A8DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assesment_Owen_Repository", "Assesment_Owen_Repository\Assesment_Owen_Repository.csproj", "{CB0B585D-178D-41A7-A6AC-CA2A44258DA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp_Repository", "Assesment_Owen_Repository\EmployeeApp_Repository.csproj", "{CB0B585D-178D-41A7-A6AC-CA2A44258DA4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BFF563A-8E89-4480-A970-3C0427D08E10}"
 	ProjectSection(SolutionItems) = preProject
