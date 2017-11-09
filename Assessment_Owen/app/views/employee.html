@@ -1,0 +1,41 @@
+﻿<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <form class="form-horizontal my-form-content" method="post">
+            <div class="form-group">
+                <label>Surname</label>
+                <div>
+                    <input class="form-control" ng-model="employee.Surname" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Firstnames</label>
+                <div>
+                    <input class="form-control" ng-model="employee.FirstNames" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Identity type</label>
+                <div>
+                    <input class="form-control" ng-model="employee.IdentityType" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Identity number</label>
+                <div>
+                    <input class="form-control" ng-model="employee.IdentityNumber" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Date of birth</label>
+                <div>
+                    <input class="form-control" ng-model="employee.DateOfBirth" />
+                </div>
+            </div>
+            <div class="form-group">                
+                <div>
+                    <button type="submit" ng-click="saveEmployee()" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
